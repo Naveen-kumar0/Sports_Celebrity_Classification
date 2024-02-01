@@ -1,6 +1,6 @@
 # Sports Celebrity Classification
 
-[Sports Celebrity Classification](http://ec2-16-170-246-62.eu-north-1.compute.amazonaws.com/)
+[Sports Celebrity Classification](http://ec2-16-171-7-170.eu-north-1.compute.amazonaws.com/)
 
 ## Overview
 
